@@ -1,0 +1,22 @@
+# IDEs e Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# PlatformIO / Arduino (se usar)
+.pio/
+build/
+.DS_Store
+
+# Python (caso use scripts de análise)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+*.log
